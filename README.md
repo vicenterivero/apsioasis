@@ -1,3 +1,22 @@
+# Como instalar e iniciar el proyecto
+
+1. Clonar el repositorio actual
+
+2. Crear una base de datos llamada hoteloasis.
+
+3. importar la base de datos que se encuentra en la rama del directorio llamado hoteloasis.sql en la base de datos creada en el paso dos.
+
+4. Abrir la linea de comandos en el proyecto y ejecutar el comando php artisan serve.
+
+para que funcione se debe tener instalado xampp o wampp y tener inicializado el apache y el mysql.
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
