@@ -1,5 +1,5 @@
 # Como instalar e iniciar el proyecto
-
+Este proyecto es para la generacion de las apis
 1. Clonar el repositorio actual
 
 2. Crear una base de datos llamada hoteloasis.
